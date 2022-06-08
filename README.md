@@ -46,5 +46,11 @@
 ## Task 8 ICMP Traffic
 [RFC 792 - Internet Control Message Protocol](https://datatracker.ietf.org/doc/html/rfc792)
 
+## Task 9 TCP Traffic
+[RFC 793 - Transmission Control Protocol](https://datatracker.ietf.org/doc/html/rfc793)
+
+## Task 10 DNS Traffic
+[https://www.ietf.org/rfc/rfc1035.txt](https://www.ietf.org/rfc/rfc1035.txt)
+
 
 
