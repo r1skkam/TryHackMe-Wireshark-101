@@ -52,5 +52,15 @@
 ## Task 10 DNS Traffic
 [https://www.ietf.org/rfc/rfc1035.txt](https://www.ietf.org/rfc/rfc1035.txt)
 
+## Task 11 HTTP Traffic
+[Download Task File](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/http.cap)
 
+[IETF on HTTP methods](https://www.ietf.org/rfc/rfc2616.txt)
+
+### Wireshark's built-in features
+[Statistics > Protocol Hierarchy](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/Wireshark%20-%20Protocol%20Hierarchy%20Statistics.png)
+
+[File > Export Objects > HTTP](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/Wireshark%20-%20Export%20-%20HTTP%20object%20list.png)
+
+[Statistics > Endpoints](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/Wireshark%20-%20Endpoints.png)
 
