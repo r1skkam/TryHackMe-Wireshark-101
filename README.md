@@ -64,3 +64,23 @@
 
 [Statistics > Endpoints](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/Wireshark%20-%20Endpoints.png)
 
+[full request URI from packet 18](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/full%20request%20URI%20from%20packet%2018.png)
+
+## Task 12 HTTPS Traffic
+[[Download Task File]](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/snakeoil2.zip)
+
+[RSA key navigate to Edit > Preferences > Protocols > TLS >  [+]](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/ssl-tls.png)
+
+[packet 31](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/packet-31.png)
+
+[packet 50](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/packet-50.png)
+
+## Task 13 Analyzing Exploit PCAPs
+[Download Task File](https://github.com/r1skkam/TryHackMe-Wireshark-101/blob/main/zerologon.pcap)
+
+## Task 14 Conclusion
+[Wireshark · Documentation](https://www.wireshark.org/docs/)
+
+[SampleCaptures](https://wiki.wireshark.org/SampleCaptures)
+
+[Case 001 PCAP Analysis - DFIR Madness](https://dfirmadness.com/case-001-pcap-analysis/)
